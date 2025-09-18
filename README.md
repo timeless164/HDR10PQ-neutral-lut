@@ -1,5 +1,5 @@
 # HDR10PQ-neutral-lut
-1024x24 , 16-bit , sRGB neutral HDR10pq tuned LUT png
+1024x24 , 16-bit (x3) , sRGB16F neutral HDR10pq tuned LUT png
 
 I was unable to locate a LUT online for Cyberpunk 2077 that was specifically made for a 4K OLED HDR10-PQ monitor. This is the result of my toil. This is way out of my 
 zone of expertise so there was a lot of AI assist, and, I dont claim its veracity. Simply putting it out there hoping I can spare someone the time and effort.
