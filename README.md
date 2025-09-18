@@ -7,3 +7,7 @@ zone of expertise so there was a lot of AI assist, and, I dont claim its veracit
 From what I understand the AI baked the LUT in python as a TIFF, then I converted the TIFF into PNG.
 
 The creation and intention of this is for Reshade 6.5 and later.
+
+DISCLAIMER:
+As implied, I'm not a color scientist or graphics professional. This LUT was made as a personal project and is shared freely under CCO.
+Use it As-Is, without any guarantees.
